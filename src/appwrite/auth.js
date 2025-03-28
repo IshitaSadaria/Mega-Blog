@@ -56,4 +56,4 @@ export class AuthService {
 
 const authService = new AuthService();      // Create a new instance/object of the AuthService class, so that we can use its methods to authenticate the user.
 
-export default AuthService;
+export default authService;
